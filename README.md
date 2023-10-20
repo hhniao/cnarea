@@ -3,16 +3,16 @@
 《中华人民共和国行政区划代码》（GB/T 2260-2007）是2008年2月1日开始实施的一项中华人民共和国国家推荐性标准，归口于全国信息分类与编码标准化技术委员会。 [百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81/56773615?fr=aladdin)
 ## 适用数据库
 
-- 1. mysql
+- mysql
 
 ### 数据库导入优化
 
-- 1. 批量导入方式, 每批次包含适量的条数. 导入速度更快
+- 批量导入方式, 每批次包含适量的条数. 导入速度更快
  
 ### 文件说明
 
-- cnarea_2023.tar.gz 五级行政区包括港澳台数据
-- cnarea_simples 三级行政区数据, 不包含港澳台数据
+- [cnarea_2023.tar.gz](./cnarea_2023.tar.gz) 五级行政区包括港澳台数据
+- [cnarea_simples.tar.gz](cnarea_simples.tar.gz) 三级行政区数据, 不包含港澳台数据
 ### 下载, 解压
 ```
 git clone https://github.com/hhniao/cnarea
