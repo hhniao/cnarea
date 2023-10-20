@@ -1,6 +1,9 @@
 # 中华人民共和国行政区划代码
 ## GB/T 2260-2007
-《中华人民共和国行政区划代码》（GB/T 2260-2007）是2008年2月1日开始实施的一项中华人民共和国国家推荐性标准，归口于全国信息分类与编码标准化技术委员会。 [百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81/56773615?fr=aladdin)
+《中华人民共和国行政区划代码》（GB/T 2260-2007）是2008年2月1日开始实施的一项中华人民共和国国家推荐性标准，归口于全国信息分类与编码标准化技术委员会。 
+
+[百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81/56773615?fr=aladdin)
+
 [国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C9C488FD717AFDCD52157F41C3302C6D) [政府文件]
 ## 适用数据库
 
