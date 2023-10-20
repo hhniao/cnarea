@@ -8,6 +8,10 @@
 ### 数据库导入优化
 
 - 1. 批量导入方式, 每批次包含适量的条数. 导入速度更快
+ 
+### 文件说明
+1. cnarea_2023.tar.gz 五级行政区包括港澳台数据
+2. cnarea_simples 三级行政区数据, 不包含港澳台数据
 ### 下载, 解压
 ```
 git clone https://github.com/hhniao/cnarea
