@@ -5,6 +5,8 @@
 [百度百科](https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81/56773615?fr=aladdin)
 
 [国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C9C488FD717AFDCD52157F41C3302C6D) [政府文件]
+
+[维基百科](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E4%BB%A3%E7%A0%81)
 ## 适用数据库
 
 - mysql
@@ -17,6 +19,7 @@
 
 - [cnarea_2023.tar.gz](./cnarea_2023.tar.gz) 五级行政区包括港澳台数据
 - [cnarea_simples.tar.gz](cnarea_simples.tar.gz) 三级行政区数据, 不包含港澳台数据
+- [维基百科-中华人民共和国行政区划代码](./中华人民共和国行政区划代码.pdf) 维基百科-中华人民共和国行政区划代码
 ### 下载, 解压
 ```
 git clone https://github.com/hhniao/cnarea
